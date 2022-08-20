@@ -1,0 +1,7 @@
+
+GET http://localhost:3000/api/working/ShiftManager
+
+###
+
+GET http://localhost:3000/api/Non/working
+
